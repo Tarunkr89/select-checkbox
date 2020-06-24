@@ -56,6 +56,9 @@
 .center h4 {
   color: #555;
 }
+ul {
+  margin-left: -20px;
+}
 
 @keyframes App-logo-spin {
   from {
