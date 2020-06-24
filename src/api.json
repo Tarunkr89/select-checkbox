@@ -1,0 +1,74 @@
+{
+  "data": {
+    "country": [
+      {
+        "countryId": "1",
+        "name": "Portugal",
+        "players": [
+          {
+            "id": "1",
+            "name": "Assiya Jayavant",
+            "isCheck": false
+          },
+          {
+            "id": "2",
+            "name": "Luvleen Lawrence",
+            "isCheck": false
+          },
+          {
+            "id": "3",
+            "name": "Rey Mibourne",
+            "isCheck": false
+          },
+          {
+            "id": "4",
+            "name": "Cyla Brister",
+            "isCheck": false
+          }
+        ]
+      },
+      {
+        "countryId": "2",
+        "name": "Nicaragua",
+        "players": [
+          {
+            "id": "1",
+            "name": "Daveedas Nandi",
+            "isCheck": false
+          },
+          {
+            "id": "2",
+            "name": "Obasy Chidy",
+            "isCheck": false
+          },
+          {
+            "id": "3",
+            "name": "Xenie Dolenzelova",
+            "isCheck": false
+          },
+          {
+            "id": "4",
+            "name": "Eziquiel Dengra",
+            "isCheck": false
+          }
+        ]
+      },
+      {
+        "countryId": "3",
+        "name": "Marshall",
+        "players": [
+          {
+            "id": "1",
+            "name": "Aron Almaraz",
+            "isCheck": false
+          },
+          {
+            "id": "2",
+            "name": "Jelena Denisova",
+            "isCheck": false
+          }
+        ]
+      }
+    ]
+  }
+}

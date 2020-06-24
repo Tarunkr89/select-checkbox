@@ -27,6 +27,35 @@
 .App-link {
   color: #61dafb;
 }
+.bg {
+  background-color: #7d27c9;
+  min-height: 100vh;
+}
+.card {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.selected-player {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ddd;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+.remove-button {
+  cursor: pointer;
+}
+.center {
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.center h4 {
+  color: #555;
+}
 
 @keyframes App-logo-spin {
   from {
